@@ -5,4 +5,4 @@ A template repository for new python projects
 
 Create a new python environment and run the following command:
 
-pip install -e . 
+`pip install -e . `
